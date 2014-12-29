@@ -1,0 +1,1057 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Cann",
+				"CannonState"
+			],
+			[
+				"print",
+				"printMessage"
+			],
+			[
+				"las",
+				"last_name"
+			],
+			[
+				"la",
+				"last_name"
+			],
+			[
+				"fir",
+				"first_name"
+			],
+			[
+				"sup",
+				"super_power"
+			],
+			[
+				"arg",
+				"argCount"
+			],
+			[
+				"mu",
+				"mutnums"
+			],
+			[
+				"ne",
+				"next_ys"
+			],
+			[
+				"next",
+				"next_xs"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"records",
+				"recordsData0"
+			],
+			[
+				"cu",
+				"curlStart  (variable)"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"aray",
+				"array"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"rec",
+				"recruiting"
+			],
+			[
+				"preg",
+				"preg_match"
+			],
+			[
+				"fore",
+				"foreach	foreach …"
+			],
+			[
+				"body",
+				"bodyhtml  (variable)"
+			],
+			[
+				"if",
+				"if	if …"
+			],
+			[
+				"word",
+				"word-wrap"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"back",
+				"background-color:   (property)"
+			],
+			[
+				"def",
+				"link-default-hover"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"link",
+				"link-default-hover"
+			],
+			[
+				"n",
+				"nav-link-active"
+			],
+			[
+				"na",
+				"nav-link-hover"
+			],
+			[
+				"nav",
+				"nav-link"
+			],
+			[
+				"bg-colo",
+				"bg-color-dark"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"rep",
+				"repositionVerticals"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"attr",
+				"attr	.attr() - single"
+			],
+			[
+				"marin",
+				"margin"
+			],
+			[
+				"anim",
+				"animate	animate"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"fade",
+				"fadeOut	.fadeOut()"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"prev",
+				"previousHash"
+			],
+			[
+				"tex",
+				"text-decoration"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/googledrive/projects/12HRGAME01/12HRGAME01 Unity Project/Assets/Company_Name/Code/Cannon.cs",
+			"settings":
+			{
+				"buffer_size": 309,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/googledrive/!PortableApps/Sublime Text 3 Beta/Data/Packages/User/Preferences.sublime-settings",
+			"settings":
+			{
+				"buffer_size": 416,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 381.0,
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"unity",
+				"Set Syntax: Unity C#"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"gitstatu",
+				"Git: Status"
+			],
+			[
+				"gitadd",
+				"Git: Add..."
+			],
+			[
+				"github",
+				"Github: Issues"
+			],
+			[
+				"ruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"remp",
+				"Package Control: Remove Package"
+			],
+			[
+				"removp",
+				"Package Control: Remove Package"
+			],
+			[
+				"syntaxc+",
+				"Set Syntax: C++"
+			],
+			[
+				"sync",
+				"Set Syntax: C"
+			],
+			[
+				"update",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"synsh",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"synrub",
+				"Set Syntax: Ruby"
+			],
+			[
+				"syntapa",
+				"Set Syntax: Apache Conf"
+			],
+			[
+				"synrus",
+				"Set Syntax: Rust"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"laravel",
+				"Set Syntax: PHP - Laravel Blade"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 542.0
+	},
+	"console":
+	{
+		"height": 302.0,
+		"history":
+		[
+			"import urllib.request,os; pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')",
+			"install",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/googledrive/projects/12HRGAME01/12HRGAME01 Unity Project/Assets/Company_Name/Code",
+		"/C/googledrive/projects/12HRGAME01/12HRGAME01 Unity Project/Assets/Company_Name/Code/Editor",
+		"/C/googledrive/projects/12HRGAME01/12HRGAME01 Unity Project/Assets/Company_Name/Code/Lang",
+		"/C/googledrive/projects/12HRGAME01/12HRGAME01 Unity Project/Assets/Company_Name/Code/Managers",
+		"/C/googledrive/projects/12HRGAME01/12HRGAME01 Unity Project/Assets/Company_Name/Code/SublimeText"
+	],
+	"file_history":
+	[
+		"/C/googledrive/projects/12HRGAME01/12HRGAME01 Unity Project/Assets/Company_Name/Code/Editor/FBXScaleFix.cs",
+		"/C/googledrive/projects/12HRGAME01/12HRGAME01 Unity Project/Assets/Company_Name/Code/SublimeText/12HRGAME01.sublime-project",
+		"/C/googledrive/projects/adenflorian.com/AdenFlorian.com",
+		"/C/googledrive/projects/chard/codeBackup/Makefile",
+		"/C/googledrive/projects/chard/code/bldydngn/ansiColors.h",
+		"/C/googledrive/projects/chard/makefun/mycompiler.sh",
+		"/C/googledrive/projects/chard/code/sockets/Makefile",
+		"/C/googledrive/!PortableApps/Sublime Text 3 Beta/Data/Packages/User/Preferences.sublime-settings",
+		"/C/googledrive/projects/chard/code/sockets/client.c",
+		"/C/googledrive/projects/chard/code/sockets/server.c",
+		"/C/googledrive/projects/chard/Vagrantfile",
+		"/C/googledrive/projects/chard/code/c4/c4/c4.c",
+		"/C/googledrive/projects/chard/code/sockets/client.c.orginal",
+		"/C/googledrive/projects/chard/code/sockets/client",
+		"/C/googledrive/projects/chard/code/makefun/sorter.sh",
+		"/C/googledrive/projects/chard/code/makefun/Makefile",
+		"/C/googledrive/projects/chard/code/learnC/play.c",
+		"/C/googledrive/projects/chard2/code/makefun/mycompiler.sh",
+		"/C/googledrive/!PortableApps/Sublime Text 3 Beta/Data/Packages/Default/Preferences.sublime-settings",
+		"/C/googledrive/projects/chard2/makefun/Makefile",
+		"/C/googledrive/projects/chard2/makefun/lines.txt",
+		"/C/googledrive/projects/chard2/code/ex16.c",
+		"/C/googledrive/projects/chard2/code/Makefile",
+		"/C/googledrive/projects/chard2/makefun/mycompiler.sh",
+		"/C/googledrive/projects/chard2/makefun/dostuff.sh",
+		"/C/googledrive/projects/chard2/Vagrantfile",
+		"/C/googledrive/projects/chard2/code/ex6.c",
+		"/C/googledrive/projects/chard2/code/ex5.c",
+		"/C/googledrive/projects/chard2/code/ex4.c",
+		"/C/googledrive/projects/chard2/code/ex3.c",
+		"/C/googledrive/projects/chard2/code/ex1.c",
+		"/C/googledrive/projects/chard2/code/ex1",
+		"/C/googledrive/projects/chard2/code/ax1.c",
+		"/C/googledrive/projects/chard2/code/blah",
+		"/C/googledrive/!PortableApps/Sublime Text 3 Beta/Data/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Google Drive/!!PROJECT HQ/VagrantPlay/Vagrantfile",
+		"/C/Google Drive/!!PROJECT HQ/VagrantPlay/bootstrap.sh",
+		"/C/Google Drive/!!PROJECT HQ/VagrantPlay/2/Vagrantfile",
+		"/D/xampp/apache/conf/httpd.conf",
+		"/C/Google Drive/!!PROJECT HQ/README.txt",
+		"/C/Google Drive/!PortableApps/Sublime Text 3 Beta/Data/Packages/User/SublimeLinter.sublime-settings",
+		"/C/Google Drive/!!PROJECT HQ/Star Citizen Org Watch/SCOrgStats.com/app/database/migrations/2014_06_10_044052_create_orgs_table.php",
+		"/C/Google Drive/!!PROJECT HQ/Star Citizen Org Watch/SCOrgStats.com/app/database/migrations/2014_08_20_162824_create_props_table.php",
+		"/C/Google Drive/!!PROJECT HQ/Star Citizen Org Watch/SCOrgStats.com/app/database/migrations/2014_06_10_061500_create_org_records_table.php",
+		"/C/Google Drive/!!PROJECT HQ/Star Citizen Org Watch/SCOrgStats.com/bootstrap/autoload.php",
+		"/C/Google Drive/!!PROJECT HQ/Star Citizen Org Watch/SCOrgStats.com/egwegwqeg.xml",
+		"/C/Google Drive/!!PROJECT HQ/Star Citizen Org Watch/SCOrgStats.com/public/js/app.js",
+		"/C/Google Drive/!!PROJECT HQ/Star Citizen Org Watch/SCOrgStats.com/app/database/seeds/DatabaseSeeder.php",
+		"/C/Google Drive/!!PROJECT HQ/Star Citizen Org Watch/SCOrgStats.com/app/lib/phpQuery/phpQuery.php",
+		"/C/Google Drive/!!PROJECT HQ/Star Citizen Org Watch/SCOrgStats.com/public/js/ga.js",
+		"/C/Google Drive/!!PROJECT HQ/Star Citizen Org Watch/SCOrgStats.com/app/models/OrgRecord.php",
+		"/C/Google Drive/!!PROJECT HQ/Star Citizen Org Watch/SCOrgStats.com/sass-start-watching.bat",
+		"/C/Google Drive/!!PROJECT HQ/Star Citizen Org Watch/SCOrgStats.com/sass-watch-app.scss.bat",
+		"/C/Google Drive/!!PROJECT HQ/Star Citizen Org Watch/SCOrgStats.com/app/controllers/.gitkeep",
+		"/C/Google Drive/!!PROJECT HQ/Star Citizen Org Watch/SCOrgStats.com/bootstrap/start.php",
+		"/C/Google Drive/!!PROJECT HQ/Star Citizen Org Watch/SCOrgStats.com/app/routes.php",
+		"/C/Google Drive/!!PROJECT HQ/Star Citizen Org Watch/SCOrgStats.com/app/config/local/database.php",
+		"/C/Google Drive/!!PROJECT HQ/Star Citizen Org Watch/SCOrgStats.com/.gitignore",
+		"/C/Google Drive/!!PROJECT HQ/Star Citizen Org Watch/SCOrgStats.com/vendor/barryvdh/laravel-debugbar/src/config/config.php",
+		"/C/Google Drive/!!PROJECT HQ/Star Citizen Org Watch/SCOrgStats.com/app/config/app.php",
+		"/C/Google Drive/!!PROJECT HQ/Star Citizen Org Watch/SCOrgStats.com/app/database/migrations/2014_06_10_061101_create_orgs_table.php",
+		"/D/xampp/htdocs/AdenWebStuff/AdenFlorian.com/style/style.css",
+		"/D/xampp/htdocs/AdenWebStuff/AdenFlorian.com/contact.php",
+		"/D/xampp/htdocs/AdenWebStuff/AdenFlorian.com/style/style2.css",
+		"/C/Google Drive/!PortableApps/Sublime Text 3 Beta/Data/Packages/User/Preferences.sublime-settings",
+		"/D/xampp/htdocs/AdenWebStuff/AdenFlorian.com/style/_reset.scss",
+		"/C/Google Drive/!PortableApps/Sublime Text 3 Beta/Data/Packages/CSS Format/Example.sublime-keymap",
+		"/C/Google Drive/!PortableApps/Sublime Text 3 Beta/Data/Packages/User/Default (Windows).sublime-keymap",
+		"/D/xampp/htdocs/AdenWebStuff/AdenFlorian.com/.gitignore",
+		"/D/xampp/htdocs/AdenWebStuff/AdenFlorian.com/style/inputstyle.scss",
+		"/D/xampp/htdocs/AdenWebStuff/AdenFlorian.com/style/style.scss",
+		"/C/Google Drive/!Programmer Cave/Sublime Projects/AdenFlorian.sublime-project",
+		"/C/Google Drive/!PortableApps/Sublime Text 3 Beta/Data/Packages/Default/Preferences.sublime-settings",
+		"/D/xampp/htdocs/AdenWebStuff/AdenFlorian/style/style.css",
+		"/D/xampp/htdocs/AdenWebStuff/AdenFlorian/contact.php",
+		"/D/xampp/htdocs/AdenWebStuff/AdenFlorian/websites.php",
+		"/D/xampp/htdocs/AdenWebStuff/AdenFlorian/games.php",
+		"/D/xampp/htdocs/AdenWebStuff/AdenFlorian/index.php",
+		"/D/xampp/htdocs/AdenWebStuff/AdenFlorian/js/adenflorian.js",
+		"/C/Google Drive/!!PROJECT HQ/RoboEscape/RoboEscape Unity Project/.gitignore",
+		"/C/Google Drive/!!PROJECT HQ/Robotronic/Robotronic Unity Project/.gitignore",
+		"/C/Google Drive/!!PROJECT HQ/Robotronic/Robotronic Unity Project/Assembly-UnityScript.unityproj",
+		"/C/Google Drive/!!PROJECT HQ/Robotronic/Robotronic Unity Project/Assembly-CSharp-firstpass.csproj",
+		"/C/Google Drive/!!PROJECT HQ/Emergence/Emergence Unity Project/.gitignore",
+		"/D/xampp/htdocs/AdenWebStuff/AdenFlorian/wrapper01.html",
+		"/D/xampp/htdocs/AdenWebStuff/AdenFlorian/js/jquery.ba-hashchange.min.js",
+		"/D/xampp/htdocs/AdenWebStuff/AdenFlorian/.gitignore",
+		"/D/xampp/htdocs/AdenWebStuff/AdenFlorian/about.php"
+	],
+	"find":
+	{
+		"height": 44.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"printf",
+			"messa",
+			"portNumber",
+			"sockfd",
+			"newSockFileDescriptor",
+			"socketFileDescriptor",
+			"newSocketFileDescriptor",
+			"sockaddr_in",
+			"portno",
+			"newsocket",
+			"sockfd",
+			"amy",
+			"->",
+			"j",
+			"i",
+			"ignored",
+			"Pair",
+			"listY",
+			"listX",
+			"Cons",
+			"ys",
+			"xs",
+			"y",
+			"'",
+			"https://robertsspaceindustries.com",
+			"recordsData2",
+			":",
+			",",
+			"name",
+			"['Org']",
+			"orguniqs",
+			"orgnames",
+			"151,187,205",
+			"</dd>",
+			"<dd>",
+			"</dt>",
+			"<dt>",
+			"<tr>",
+			"<dt>",
+			",\n	",
+			"\n	",
+			"'org_id' => 1",
+			"plus",
+			"UserTableSeeder",
+			"$bg-left-color",
+			"bg",
+			", ",
+			"px",
+			"page",
+			"color-light",
+			"color-dark",
+			"\\",
+			":\\",
+			"xampp",
+			"/",
+			"require",
+			"inner",
+			"font_size",
+			"ignored_packages",
+			"Vintage"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/googledrive/projects/12HRGAME01/12HRGAME01 Unity Project/Assets/Company_Name/Code/Cannon.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 309,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								169,
+								169
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"color_scheme": "Packages/User/Color Highlighter/themes/Tomorrow-Night (SL).tmTheme",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/Unity3D/UnityC#.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/googledrive/!PortableApps/Sublime Text 3 Beta/Data/Packages/User/Preferences.sublime-settings",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 416,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								271,
+								271
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"color_scheme": "Packages/User/Color Highlighter/themes/Tomorrow-Night (SL).tmTheme",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 38.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"project": "12HRGAME01.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"main",
+				"code\\bldydngn\\main.c"
+			],
+			[
+				"bldyma",
+				"code\\bldydngn\\Makefile"
+			],
+			[
+				"clien.c",
+				"code\\sockets\\client.c"
+			],
+			[
+				"ex1",
+				"code\\ex1"
+			],
+			[
+				"css",
+				"style\\style.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 625.0,
+		"selected_items":
+		[
+			[
+				"adenf",
+				"C:\\Google Drive\\!Programmer Cave\\Sublime Projects\\AdenFlorian.sublime-workspace"
+			],
+			[
+				"",
+				"C:\\Google Drive\\!!PROJECT HQ\\Star Citizen Org Watch\\SCOrgStats.com\\public\\js\\rusttut.sublime-workspace"
+			],
+			[
+				"sco",
+				"C:\\Google Drive\\!!PROJECT HQ\\Star Citizen Org Watch\\Star Citizen Org Stats.sublime-workspace"
+			]
+		],
+		"width": 475.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 203.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

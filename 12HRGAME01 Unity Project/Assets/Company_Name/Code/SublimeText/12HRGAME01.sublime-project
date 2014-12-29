@@ -1,0 +1,10 @@
+{
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "C:\\googledrive\\projects\\12HRGAME01\\12HRGAME01 Unity Project\\Assets\\Company_Name\\Code",
+			"file_exclude_patterns": ["*.meta"]
+		}
+	]
+}
