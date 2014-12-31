@@ -3,13 +3,24 @@ using System.Collections;
 
 public class TerrainGenerator : MonoBehaviour
 {
+    public static TerrainGenerator Instance { get; private set; }
+
 	float scale = 100f;
 	int wide = 100;
 	int deep = 10;
 	public Material mat;
-	GameObject cubesParent;
+    GameObject cubesParent;
 
-	void Start ()
+    void Awake()
+    {
+        Instance = this;
+    }
+
+    void Start()
+    {
+    }
+
+	public void Generate ()
 	{
 		cubesParent = new GameObject("cubesParent");
 		cubesParent.transform.parent = GameManager.Instance.sceneParent;
@@ -27,10 +38,5 @@ public class TerrainGenerator : MonoBehaviour
 				newGO.transform.parent = cubesParent.transform;
 			}
 		}
-	}
-
-	void Update ()
-	{
-
 	}
 }
