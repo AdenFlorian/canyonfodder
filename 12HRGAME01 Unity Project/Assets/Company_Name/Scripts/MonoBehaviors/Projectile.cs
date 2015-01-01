@@ -66,7 +66,8 @@ public class Projectile : MonoBehaviour
         rigidbody.isKinematic = false;
         rigidbody.AddRelativeForce(Vector3.forward * 30 * ((force + 1.1f) * (force + 1.1f)), ForceMode.VelocityChange);
         rigidbody.AddRelativeTorque(0, 0, 1000);
-        transform.localScale = startScale;
+        //transform.localScale = startScale;
+        transform.localScale = new Vector3(1, 1, 1);
     }
 
     public void Stop()
