@@ -15,11 +15,16 @@ public class GameManager : MonoBehaviour
 
     public CameraFollow followCamera;
 
-    private void Start()
+    private void Awake()
     {
         Instance = this;
         state = GameState.Starting;
+    }
+
+    private void Start()
+    {
         scoreManager = new ScoreManager();
+        MenuManager.Instance.ShowMenu(Menu.Main);
         //TerrainGenerator.Instance.Generate();
     }
 
@@ -29,7 +34,11 @@ public class GameManager : MonoBehaviour
         DebugUI.Instance.text.text += "HighScore: " + scoreManager.highscore + "\n";
 
         if (Input.GetButtonDown("Fire1")) {
-            if (state == GameState.Ready) {
+            if (state == GameState.MainMenu) {
+                cannon.NextState();
+                state = GameState.LaunchProcess;
+                MenuManager.Instance.ShowMenu(Menu.None);
+            } else if (state == GameState.LaunchProcess) {
                 cannon.NextState();
             } else if (state == GameState.EndOfRound) {
                 ResetMap();
@@ -41,6 +50,7 @@ public class GameManager : MonoBehaviour
     {
         projectile.Stop();
         state = GameState.EndOfRound;
+        MenuManager.Instance.ShowMenu(Menu.EndOfRound);
     }
 
     public void ResetMap()
@@ -53,7 +63,8 @@ public class GameManager : MonoBehaviour
 
     public void Reset()
     {
-        state = GameState.Ready;
+        state = GameState.MainMenu;
+        MenuManager.Instance.ShowMenu(Menu.Main);
     }
 
     public void setCameraTarget(GameObject go)
@@ -70,5 +81,5 @@ public enum GameState
     Pivoting,
     Flying,
     EndOfRound,
-    Ready
+    LaunchProcess
 }

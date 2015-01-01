@@ -15,7 +15,7 @@ GameObject:
   m_Layer: 0
   m_Name: projectile
   m_TagString: Untagged
-  m_Icon: {fileID: -1794265156, guid: 0000000000000000d000000000000000, type: 0}
+  m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -59,7 +59,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 172318}
   m_LocalRotation: {x: 3.83558248e-25, y: .707106769, z: 3.83558248e-25, w: .707106829}
-  m_LocalPosition: {x: 3.97500277, y: 2, z: -0}
+  m_LocalPosition: {x: 3.9749999, y: 2.06299996, z: -2.78600001}
   m_LocalScale: {x: .725857735, y: .725857854, z: .362928867}
   m_Children:
   - {fileID: 472320}
@@ -102,7 +102,7 @@ Renderer:
   m_LightmapIndex: 255
   m_LightmapTilingOffset: {x: 1, y: 1, z: 0, w: 0}
   m_Materials:
-  - {fileID: 2100000, guid: 638be9d3364d8ae4284663f2da8f6eab, type: 2}
+  - {fileID: 2100000, guid: 54f6444bea89a4945997791581657d27, type: 2}
   m_SubsetIndices: 
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
@@ -236,6 +236,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5f9a4b97a47ab7f4395c78caf420d71b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  isGrounded: 0
   projectileSlot: {fileID: 0}
 --- !u!135 &13572322
 SphereCollider:

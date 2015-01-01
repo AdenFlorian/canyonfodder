@@ -3,11 +3,21 @@ using UnityEngine;
 
 public class Projectile : MonoBehaviour
 {
+    public static Projectile Instance { get; private set; }
+
     private Vector3 startScale;
     public bool isGrounded = false;
-    private int distance = 0;
+
+    public int distance { get; private set; }
+
     public GameObject projectileSlot;
     private float startAngleDrag;
+
+    private void Awake()
+    {
+        distance = 0;
+        Instance = this;
+    }
 
     private void Start()
     {

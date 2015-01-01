@@ -1,17 +1,16 @@
-﻿using UnityEngine;
-using System.Collections;
+﻿using System.Collections;
+using UnityEngine;
 
 // Last script to execute each frame
 public class Last : MonoBehaviour
 {
-	void Start ()
-	{
-		Debug.Log("Last has been started...");
-		GameManager.state = GameState.Ready;
-	}
+    private void Start()
+    {
+        Debug.Log("Last has been started...");
+        GameManager.state = GameState.MainMenu;
+    }
 
-	void Update ()
-	{
-
-	}
+    private void Update()
+    {
+    }
 }
