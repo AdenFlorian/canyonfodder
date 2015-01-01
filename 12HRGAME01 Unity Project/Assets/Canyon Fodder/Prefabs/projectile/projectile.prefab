@@ -12,6 +12,7 @@ GameObject:
   - 114: {fileID: 11472322}
   - 135: {fileID: 13572322}
   - 82: {fileID: 8272322}
+  - 114: {fileID: 11444328}
   m_Layer: 0
   m_Name: projectile
   m_TagString: Untagged
@@ -225,6 +226,23 @@ Light:
   m_ShadowAngle: 0
   m_IndirectIntensity: 1
   m_AreaSize: {x: 1, y: 1}
+--- !u!114 &11444328
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 172318}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d591614d01f81042b03da90226d89fa, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  positionTarget: {fileID: 0}
+  rotationTarget: {fileID: 0}
+  scaleTarget: {fileID: 0}
+  positionTracking: 1
+  rotationTracking: 1
+  scaleTracking: 0
 --- !u!114 &11472322
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -238,6 +256,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isGrounded: 0
   projectileSlot: {fileID: 0}
+  trackTarget: {fileID: 0}
 --- !u!135 &13572322
 SphereCollider:
   m_ObjectHideFlags: 1

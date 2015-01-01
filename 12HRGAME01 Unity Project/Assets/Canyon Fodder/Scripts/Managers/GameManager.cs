@@ -32,6 +32,7 @@ public class GameManager : MonoBehaviour
     {
         DebugUI.Instance.text.text += "GameState: " + state.ToString() + "\n";
         DebugUI.Instance.text.text += "HighScore: " + scoreManager.highscore + "\n";
+        MenuManager.Instance.highscoreTextUI.text = "HIGHSCORE: " + scoreManager.highscore;
 
         if (Input.GetButtonDown("Fire1")) {
             if (state == GameState.MainMenu) {

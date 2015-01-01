@@ -12,9 +12,11 @@ public class Projectile : MonoBehaviour
 
     public GameObject projectileSlot;
     private float startAngleDrag;
+    public TrackTarget trackTarget;
 
     private void Awake()
     {
+        trackTarget = GetComponent<TrackTarget>();
         distance = 0;
         Instance = this;
     }
@@ -66,8 +68,10 @@ public class Projectile : MonoBehaviour
         rigidbody.isKinematic = false;
         rigidbody.AddRelativeForce(Vector3.forward * 30 * ((force + 1.1f) * (force + 1.1f)), ForceMode.VelocityChange);
         rigidbody.AddRelativeTorque(0, 0, 1000);
+        trackTarget.positionTracking = false;
+        trackTarget.rotationTracking = false;
         //transform.localScale = startScale;
-        transform.localScale = new Vector3(1, 1, 1);
+        //transform.localScale = new Vector3(1, 1, 1);
     }
 
     public void Stop()

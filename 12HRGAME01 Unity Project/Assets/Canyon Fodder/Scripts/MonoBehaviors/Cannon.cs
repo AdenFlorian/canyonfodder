@@ -25,9 +25,9 @@ public class Cannon : MonoBehaviour
         animStretch = animation["cannon_stretch"];
         barrelStartScale = barrel.transform.localScale;
         barrelStartRotation = barrel.transform.localRotation;
-        projectile = ((GameObject)GameObject.Instantiate(projectilePrefab,
+        /*projectile = ((GameObject)GameObject.Instantiate(projectilePrefab,
             projectileSlot.transform.position,
-            projectileSlot.transform.rotation)).GetComponent<Projectile>();
+            projectileSlot.transform.rotation)).GetComponent<Projectile>();*/
         GameManager.Instance.projectile = projectile;
         LoadCannon(projectile);
     }
@@ -53,10 +53,12 @@ public class Cannon : MonoBehaviour
 
     public void LoadCannon(Projectile projectileToLoad)
     {
-        projectileToLoad.transform.position = projectileSlot.transform.position;
-        projectileToLoad.transform.rotation = projectileSlot.transform.rotation;
+        //projectileToLoad.transform.position = projectileSlot.transform.position;
+        //projectileToLoad.transform.rotation = projectileSlot.transform.rotation;
 
-        projectile.transform.parent = projectileSlot.transform;
+        //projectile.transform.parent = projectileSlot.transform;
+        projectile.trackTarget.positionTracking = true;
+        projectile.trackTarget.rotationTracking = true;
     }
 
     public void StartStretching()

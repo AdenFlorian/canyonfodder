@@ -1,5 +1,6 @@
 ﻿using System.Collections;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class MenuManager : MonoBehaviour
 {
@@ -8,6 +9,7 @@ public class MenuManager : MonoBehaviour
     public GameObject mainMenu;
     public GameObject endOfRoundMenu;
     public GameObject noneMenu;
+    public Text highscoreTextUI;
 
     private GameObject activeMenu;
 
